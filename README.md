@@ -1,0 +1,2 @@
+# TutDjango
+Tutorial for django
