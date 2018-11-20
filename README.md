@@ -1,3 +1,9 @@
 ## TutDjango
--create folder in cmd and type 'virtualenv .' in cmd to create virtual environment
-<br>-to activate virtual environment run 'Scripts/activate'
+### Virtual Environment
+- create folder in cmd and type 'virtualenv .' in cmd to create virtual environment
+
+- to activate virtual environment run 'Scripts/activate'
+### Django Project
+- first use migrate alone to build database
+
+-
