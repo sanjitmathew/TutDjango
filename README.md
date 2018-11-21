@@ -7,3 +7,4 @@
 - first use **migrate** alone to build database
 - after each change to models use **makemigrations** and **migrate**
 - use **python manage.py shell** to access python shell to insert values into model table
+- all changes to models can be found in migrations folder
